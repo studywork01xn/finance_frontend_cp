@@ -1,0 +1,17 @@
+export const categories = [
+  "Food and Drinks",
+  "Groceries",
+  "Rent or Mortgage",
+  "Utilities",
+  "Transportation",
+  "Personal care",
+  "Clothing and Accessories",
+  "Entertainment",
+  "Travel",
+  "Gifts and Donations",
+  "Medical and Health",
+  "Insurance",
+  "Education",
+  "Home Maintenance and Repairs",
+  "Miscellaneous",
+];

@@ -1,0 +1,48 @@
+.expenses {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 75vw;
+    background-color: #101010;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .expensesCard {
+    background-color: white;
+    width: 95%;
+    height: 95%;
+    border-radius: 30px;
+  
+    display: flex;
+  }
+  
+  .expensesOverview {
+    width: 100%;
+    padding: 5rem;  
+  }
+
+  .mainBody{
+    width: 100%;
+    padding: 5rem;
+    height: 95%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px
+  }
+  
+  .expensesHeader {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .expensesTitle {
+    font-weight: 600;
+    font-size: 40px;
+  }
+  
+ 
